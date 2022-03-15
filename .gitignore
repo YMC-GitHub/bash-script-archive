@@ -1,0 +1,8 @@
+.DS_Store
+.idea/*
+
+# vagrant
+.vagrant/*
+*.box
+*.tar.gz
+.data
